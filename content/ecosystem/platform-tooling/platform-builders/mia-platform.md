@@ -1,7 +1,7 @@
 +++
 title="Mia-Platform"
 aliases="/frameworks/mia-platform/"
-url="/platform-orchestrators/mia-platform"
+url="/platform-builders/mia-platform"
 +++
 
 # Mia-Platform

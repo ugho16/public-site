@@ -2,7 +2,7 @@
 title="Developer Portals & Service Catalogs"
 url="/developer-portals"
 bookCollapseSection=true
-weight="2"
+weight="3"
 +++
 
 # Developer Portals & Service Catalogs
