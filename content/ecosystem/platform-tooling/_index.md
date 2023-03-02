@@ -27,6 +27,7 @@ _Are we missing any tools? [Submit a pull request!]({{< relref "/#how-to-contrib
 
 | **Platform tooling to build your Internal Developer Platform**      |
 | --------------------------------------------------------------------|
+| [Platform Builders]({{< relref "platform-builders" >}})             |
 | [Platform Orchestrators]({{< relref "platform-orchestrators" >}}) |
 | [Developer Portals]({{< relref "developer-portals" >}})  |
 | [CD Operators]({{< relref "cd-operators" >}})    |
